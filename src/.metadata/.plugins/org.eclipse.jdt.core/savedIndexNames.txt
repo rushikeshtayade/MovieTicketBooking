@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\JavaProjects\olmovietickets\movie-ticket-booking\src\.metadata\.plugins\org.eclipse.jdt.core
+747399961.index
